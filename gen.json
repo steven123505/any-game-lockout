@@ -1,0 +1,566 @@
+[
+    {
+        "name": "Go in a Portal"
+    },
+    {
+        "name": "Experience Rain"
+    },
+    {
+        "name": "Hatch an Egg"
+    },
+    {
+        "name": "Get Debuffed"
+    },
+    {
+        "name": "Buff Yourself"
+    },
+    {
+        "name": "Destroy a Wall"
+    },
+    {
+        "name": "Drown"
+    },
+    {
+        "name": "Drive a Vehicle"
+    },
+    {
+        "name": "Beat a Rhythm Section"
+    },
+    {
+        "name": "Go to Hell"
+    },
+    {
+        "name": "Sink a Boat"
+    },
+    {
+        "name": "Shoot Lasers"
+    },
+    {
+        "name": "Sit Down"
+    },
+    {
+        "name": "Ding a Bell"
+    },
+    {
+        "name": "Change your Hairstyle"
+    },
+    {
+        "name": "Use a Flashlight"
+    },
+    {
+        "name": "Clean Something"
+    },
+    {
+        "name": "Use a Grappling Hook"
+    },
+    {
+        "name": "Transition (Change your Character's Gender)"
+    },
+    {
+        "name": "Score exactly 3 Points"
+    },
+    {
+        "name": "Throw a «Ball» in a Loop or a Basket"
+    },
+    {
+        "name": "Drink 3 Different Things"
+    },
+    {
+        "name": "Jump over Spikes"
+    },
+    {
+        "name": "Reload 10 Times"
+    },
+    {
+        "name": "Run out of Time"
+    },
+    {
+        "name": "Lure Something into a Trap"
+    },
+    {
+        "name": "Die 15 Times"
+    },
+    {
+        "name": "Fully Explore a Map"
+    },
+    {
+        "name": "Find an Egg"
+    },
+    {
+        "name": "Win the Game"
+    },
+    {
+        "name": "Kill a Zombie"
+    },
+    {
+        "name": "Get an Upgrade"
+    },
+    {
+        "name": "Put on a Helmet"
+    },
+    {
+        "name": "Kill a Dragon"
+    },
+    {
+        "name": "Catch a Fish"
+    },
+    {
+        "name": "Use a Jetpack"
+    },
+    {
+        "name": "Get a Headshot With a Sniper"
+    },
+    {
+        "name": "Eat 10 Things"
+    },
+    {
+        "name": "Become Invisible"
+    },
+    {
+        "name": "Ride an Animal"
+    },
+    {
+        "name": "Pet an Animal"
+    },
+    {
+        "name": "Get a Pet"
+    },
+    {
+        "name": "Complete the Tutorial"
+    },
+    {
+        "name": "Craft Something"
+    },
+    {
+        "name": "Grow and Harvest a Crop"
+    },
+    {
+        "name": "Make 1,000,000$"
+    },
+    {
+        "name": "Level Up"
+    },
+    {
+        "name": "Score a Goal"
+    },
+    {
+        "name": "Serve a Customer"
+    },
+    {
+        "name": "Defeat a Boss"
+    },
+    {
+        "name": "Get a Boss to 1 HP and then Die"
+    },
+    {
+        "name": "Burn Down a Building"
+    },
+    {
+        "name": "Build a House"
+    },
+    {
+        "name": "Cast a Spell"
+    },
+    {
+        "name": "Drink a Potion"
+    },
+    {
+        "name": "Find a Frog"
+    },
+    {
+        "name": "Find an Easter Egg"
+    },
+    {
+        "name": "Do a Backflip"
+    },
+    {
+        "name": "Blow up a Bomb"
+    },
+    {
+        "name": "Explode"
+    },
+    {
+        "name": "Build A Turret"
+    },
+    {
+        "name": "Fly a Spaceship"
+    },
+    {
+        "name": "Play an Instrument"
+    },
+    {
+        "name": "Steal Something"
+    },
+    {
+        "name": "Kill a Friendly NPC"
+    },
+    {
+        "name": "See a Ghost"
+    },
+    {
+        "name": "Win a 1v1 Online"
+    },
+    {
+        "name": "Go to the Moon"
+    },
+    {
+        "name": "Use a Shovel"
+    },
+    {
+        "name": "Use a Computer in Game"
+    },
+    {
+        "name": "Crawl through a Tunnel"
+    },
+    {
+        "name": "Play a Game within a Game"
+    },
+    {
+        "name": "Complete a Side Quest for an NPC"
+    },
+    {
+        "name": "Fly"
+    },
+    {
+        "name": "Sit Next to a Campfire"
+    },
+    {
+        "name": "Glitch out of bounds"
+    },
+    {
+        "name": "Kill 10 of the Same Thing"
+    },
+    {
+        "name": "Sleep through the Night"
+    },
+    {
+        "name": "Soft Lock Yourself"
+    },
+    {
+        "name": "Beat 2 Daily Puzzles"
+    },
+    {
+        "name": "Shoot Yourself"
+    },
+    {
+        "name": "Suffocate"
+    },
+    {
+        "name": "Ride a Boat"
+    },
+    {
+        "name": "Spawn Something"
+    },
+    {
+        "name": "Step on a Landmine"
+    },
+    {
+        "name": "Escape a Locked Room"
+    },
+    {
+        "name": "Climb a Wall"
+    },
+    {
+        "name": "Get a Trophy"
+    },
+    {
+        "name": "Get an S Rank or Better"
+    },
+    {
+        "name": "Have a Pet/Companion Kill Something"
+    },
+    {
+        "name": "Make a Meal"
+    },
+    {
+        "name": "Fill your Inventory"
+    },
+    {
+        "name": "Take off your Shirt"
+    },
+    {
+        "name": "Open a Treasure Chest"
+    },
+    {
+        "name": "Punch an Enemy"
+    },
+    {
+        "name": "Reduce Your HP to Exactly 1"
+    },
+    {
+        "name": "Get Shot"
+    },
+    {
+        "name": "Draw a Card"
+    },
+    {
+        "name": "Starve to Death"
+    },
+    {
+        "name": "Unlock a Cosmetic"
+    },
+    {
+        "name": "Lose it All by Gambling"
+    },
+    {
+        "name": "Manipulate Time"
+    },
+    {
+        "name": "Draw a Pretty Picture"
+    },
+    {
+        "name": "Win a Race"
+    },
+    {
+        "name": "Get in an Ocean"
+    },
+    {
+        "name": "Solve a Puzzle"
+    },
+    {
+        "name": "Go on a Date"
+    },
+    {
+        "name": "Roll a Dice"
+    },
+    {
+        "name": "Deal Critical Damage"
+    },
+    {
+        "name": "Reach the Credits Through Gameplay"
+    },
+    {
+        "name": "Name a Pet"
+    },
+    {
+        "name": "Beat the Final Boss"
+    },
+    {
+        "name": "Fall to Your Death"
+    },
+    {
+        "name": "Climb a Ladder"
+    },
+    {
+        "name": "Parry an Attack"
+    },
+    {
+        "name": "Reflect a Projectile"
+    },
+    {
+        "name": "Manually save your game without using the pause menu"
+    },
+    {
+        "name": "Get Drunk"
+    },
+    {
+        "name": "Drink Water"
+    },
+    {
+        "name": "Get a Full Set of Armor"
+    },
+    {
+        "name": "Change your Character’s Size"
+    },
+    {
+        "name": "Get Poisoned"
+    },
+    {
+        "name": "Step on a Trap"
+    },
+    {
+        "name": "Die 3 Different Ways in a Single Game"
+    },
+    {
+        "name": "Restore Health"
+    },
+    {
+        "name": "Touch Grass"
+    },
+    {
+        "name": "Set Yourself on Fire"
+    },
+    {
+        "name": "Perform a Glitch or Exploit"
+    },
+    {
+        "name": "Get a Kill Streak"
+    },
+    {
+        "name": "Reduce Your Money to 0"
+    },
+    {
+        "name": "Open 3 Different Doors"
+    },
+    {
+        "name": "Fight a Bird"
+    },
+    {
+        "name": "Crash a Car"
+    },
+    {
+        "name": "Stand on a Rooftop"
+    },
+    {
+        "name": "Teabag a Fallen Foe"
+    },
+    {
+        "name": "Get a 1-Up"
+    },
+    {
+        "name": "Use Fast Travel"
+    },
+    {
+        "name": "Make a Phone Call"
+    },
+    {
+        "name": "Skip a Cutscene"
+    },
+    {
+        "name": "Do Not Skip a Skippable Cutscene"
+    },
+    {
+        "name": "Cut Down a Tree"
+    },
+    {
+        "name": "Get Electrocuted"
+    },
+    {
+        "name": "Emote or Taunt"
+    },
+    {
+        "name": "See your Character's Reflection"
+    },
+    {
+        "name": "Hitless a Boss"
+    },
+    {
+        "name": "Get Something Labeled as Rare"
+    },
+    {
+        "name": "Get an Item Name that Starts with The Letter Q"
+    },
+    {
+        "name": "Command an Army"
+    },
+    {
+        "name": "Perform a Transformation"
+    },
+    {
+        "name": "Find Something Behind a Waterfall"
+    },
+    {
+        "name": "Break Glass"
+    },
+    {
+        "name": "Alter the flow of traffic"
+    },
+    {
+        "name": "Fish up Something That's not a fish"
+    },
+    {
+        "name": "Complete a Skillcheck"
+    },
+    {
+        "name": "Ragdoll Something"
+    },
+    {
+        "name": "Stand on a Conveyor Belt"
+    },
+    {
+        "name": "Beat a Roguelike Run"
+    },
+    {
+        "name": "Have a Game Attempt to Jumpscare You"
+    },
+    {
+        "name": "Double Jump"
+    },
+    {
+        "name": "Break a Tool"
+    },
+    {
+        "name": "Jump onto a Moving Object"
+    },
+    {
+        "name": "Read a Book"
+    },
+    {
+        "name": "Build a Bridge,"
+    },
+    {
+        "name": "Look in a Trash Can"
+    },
+    {
+        "name": "Get Married"
+    },
+    {
+        "name": "Stealth Kill an Enemy"
+    },
+    {
+        "name": "Go to Another Dimension"
+    },
+    {
+        "name": "Cross the Entire Map"
+    },
+    {
+        "name": "Commit a Crime"
+    },
+    {
+        "name": "Get 1,000 of Something"
+    },
+    {
+        "name": "Block Something with a Shield"
+    },
+    {
+        "name": "Buy Everything From a Shop"
+    },
+    {
+        "name": "Die to a Sea Creature"
+    },
+    {
+        "name": "Win at Gambling"
+    },
+    {
+        "name": "See Blood"
+    },
+    {
+        "name": "Clear a Dungeon"
+    },
+    {
+        "name": "Clear a Stage"
+    },
+    {
+        "name": "Get Cursed"
+    },
+    {
+        "name": "Bounce Off an Enemy"
+    },
+    {
+        "name": "Make a Dialogue Choice"
+    },
+    {
+        "name": "Game Over"
+    },
+    {
+        "name": "Do Math as Part of the Game"
+    },
+    {
+        "name": "Control Water"
+    },
+    {
+        "name": "Beat a Game"
+    },
+    {
+        "name": "Interact with Magma/Lava"
+    },
+    {
+        "name": "Have a Visual Effect on Screen"
+    },
+    {
+        "name": "Talk with an NPC"
+    },
+    {
+        "name": "Obtain a Weapon"
+    }
+]
