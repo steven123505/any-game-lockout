@@ -9,6 +9,30 @@
         "name": "Hatch an Egg"
     },
     {
+        "name": "Obtain 5 Different Items"
+    },
+    {
+        "name": "Complete an Alternate Ending to a Stage"
+    },
+    {
+        "name": "Buy and Item then Sell it for a Higher Price"
+    },
+    {
+        "name": "Go into Debt"
+    },
+    {
+        "name": "Chop Down a Tree in 3 Different Games"
+    }
+    {
+        "name": "Die in 5 Different Games"
+    },
+    {
+        "name": "Get a Kill in 5 Different Games"
+    },
+    {
+        "name":"Get Money in 7 Different Games"
+    }
+    {
         "name": "Get Debuffed"
     },
     {
@@ -418,9 +442,6 @@
     },
     {
         "name": "Do Not Skip a Skippable Cutscene"
-    },
-    {
-        "name": "Cut Down a Tree"
     },
     {
         "name": "Get Electrocuted"
